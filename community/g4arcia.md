@@ -1,5 +1,5 @@
 ## Ola eu sou o  MIguel Garcia Santos
-# atualmente curso o ensino medio e aprebdo programação na intenet e a DIO tem me ajudado muito.
+### atualmente curso o ensino medio e aprendo programação na intenet e a DIO tem me ajudado muito.
 
 ### Conecte-se comigo
 
